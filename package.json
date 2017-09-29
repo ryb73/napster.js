@@ -2,7 +2,7 @@
   "name": "napster",
   "version": "2.0.0",
   "description": "A client side JavaScript library for managing playback of licensed Napster audio content.",
-  "main": "lib/napster.js",
+  "main": "src/napster.js",
   "directories": {
     "example": "example",
     "test": "test",
