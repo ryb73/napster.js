@@ -4,3 +4,4 @@ node_modules
 .idea/
 difflist
 example/napster.js
+lib/
