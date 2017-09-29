@@ -2,8 +2,7 @@ const path = require("path");
 
 module.exports = {
     entry:  {
-        napster: path.resolve("src/napster.js"),
-        "example/client": path.resolve("example/client.js"),
+        client: path.resolve("src/client.js"),
     },
 
     output: {

@@ -1,5 +1,5 @@
 const $ = require("jquery"),
-      Napster = require("../src/napster.js");
+      Napster = require("../../src/napster.js");
 
 var API_KEY = 'API_KEY';
 

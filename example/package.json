@@ -5,5 +5,14 @@
     "body-parser": "^1.12.2",
     "express": "^4.12.3",
     "request": "^2.54.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.6.0"
+  },
+  "scripts": {
+    "watch": "webpack -w"
   }
 }

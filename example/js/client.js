@@ -1,1 +1,0 @@
-../../lib/example/client.js
