@@ -1,6 +1,6 @@
 {
   "name": "@ryb73/napster",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A client side JavaScript library for managing playback of licensed Napster audio content.",
   "main": "src/napster.js",
   "directories": {
